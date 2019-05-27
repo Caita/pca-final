@@ -1,0 +1,232 @@
+#atividades{
+
+	list-style: none;
+}
+
+.escolha{
+	
+	font-family: monospace;
+	font-size:33px;
+	word-spacing: 0,3em; 
+}
+
+
+
+#log{
+
+	background-color: #db610a;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	height: 40px; 
+	width: 1360px;
+	border-style: solid;
+	border-color: #ff832b;
+
+	
+}
+
+#ativ{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #e65c00;
+	height: 223px;
+	width: 223px;
+	border-radius: 20px;
+
+
+	position: absolute;
+	top: 20%;
+	right: 28%;
+}
+
+#ativ2{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #e65c00;
+	height: 223px;
+	width: 223px;
+	border-radius: 20px;
+
+	position: absolute;
+	top: 20%;
+	right: 10%;
+}
+
+#ativ3{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #e65c00;
+	height: 223px;
+	width: 223px;
+	border-radius: 20px;
+
+	position: absolute;
+	top: 57%;
+	right: 28%;
+}
+
+#ativ4{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #e65c00;
+	height: 223px;
+	width: 223px;
+	border-radius: 20px;
+
+	position: absolute;
+	top: 57%;
+	right: 10%;
+}
+
+a.fill-div {
+    text-align: center;
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+
+#fam{
+
+	width: 120px;
+	height: 120px;
+
+	position: absolute;
+	top: 24%;
+	left: 24%;
+}
+
+#toy{
+
+	width: 120px;
+	height: 120px;
+
+	position: absolute;
+	top: 24%;
+	left: 24%;
+}
+
+#chat{
+
+	width: 120px;
+	height: 120px;
+
+	position: absolute;
+	top: 24%;
+	left: 24%;
+}
+
+#book{
+
+	width: 120px;
+	height: 120px;
+
+	position: absolute;
+	top: 24%;
+	left: 24%;
+}
+
+#divlogo{
+
+	position: absolute;
+	top: 17%;
+	left:5%;
+}
+
+#logo{
+
+	width: 450px;
+	height: 450px;
+}
+ 
+#escolha{
+	font-family: Comic Sans MS;
+	
+	
+	
+
+	position: absolute;
+	top: 5%;
+	right: 13%;
+}
+
+#famh{
+	font-family: Comic Sans MS;
+}
+#toyh{
+	font-family: Comic Sans MS;
+}
+#chath{
+	font-family: Comic Sans MS;
+}
+#bookh{
+	font-family: Comic Sans MS;
+}
+
+
+.Loginbut {
+	background-color:#e65c00;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:8px 26px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #9e959e;
+
+	position: absolute;
+	top: 5px;
+	right: 5px;
+
+}
+.Loginbut:hover {
+	background-color:#ffaa00;
+}
+.Loginbut:active {
+	position:relative;
+	top:1px;
+}
+
+.voltaraoport {
+	background-color:#e65c00;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:8px 26px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #9e959e;
+
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+}
+.voltaraoport:hover {
+	background-color:#ffaa00;
+}
+.voltaraoport:active {
+	position:relative;
+	top:1px;
+}
+
+#logositeimg{
+
+
+	position: absolute;
+	top: 1px;
+	left: 1px;
+}
+
