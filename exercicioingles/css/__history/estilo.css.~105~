@@ -1,0 +1,49 @@
+body{
+	background-color: #0063ba;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.pergunta{
+	width: 1000px;
+	height: 200px;
+	margin: 0 auto;
+	font-family: sans-serif;
+	
+	
+}
+
+.pergunta p{
+	font-size:200%;
+	display: block;
+	padding-left:300px;
+	padding-top: 70px;
+}
+
+.alts{
+	width: 200px;
+	height: 150px;
+}
+.respostas{
+	width: 800px;
+	margin: auto;
+}
+.respostas ul{
+	padding-left: 100px;
+}
+.respostas ul li{
+	display: inline-block; 	
+	width: 200px;
+	height: 150px;
+	
+}
+
+input[type=radio]{
+	cursor: pointer;
+}
+
+
+
+
+
+
